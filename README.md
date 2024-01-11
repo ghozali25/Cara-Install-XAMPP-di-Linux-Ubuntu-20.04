@@ -16,4 +16,3 @@
 2. Langkah kedua ketikan perintah ``` sudo /opt/lampp/lampp stop ```
 3. Finish
 
-Video [RudiEdukasi](https://www.youtube.com/watch?v=Y-Km-IT8GkM)
